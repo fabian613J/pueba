@@ -1,2 +1,2 @@
 #Archivo que ignorara
-ArchivoIgnorar.txt
+ArchivoMalo.txt
