@@ -1,0 +1,2 @@
+#Archivo que ignorara
+Ignora.txt
